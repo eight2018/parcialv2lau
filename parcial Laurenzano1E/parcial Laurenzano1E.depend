@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525993590 source:e:\parcial laurenzano1e\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1525993452 e:\parcial laurenzano1e\clientes.h
+
+1524691840 e:\parcial laurenzano1e\utn.h
+
